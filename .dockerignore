@@ -1,0 +1,16 @@
+.git/
+.venv/
+venv/
+.env
+__pycache__/
+*.pyc
+frontend/
+docs/
+scripts/
+*.bat
+*.md
+*.docx
+data/raw/
+data/app.db*
+data/*.log
+data/test_tmp.db*
